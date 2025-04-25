@@ -492,9 +492,7 @@ ul.email li i {
 }
 
 .banner_img {
-     padding-right: 100px;
-     Padding-top: 60px;
-     Padding-bottom: 15px;
+     padding-right: 100px 60px 100px 60px;  
 }
 
 .banner_img figure {
