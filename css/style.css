@@ -497,11 +497,11 @@ ul.email li i {
 }
 
 .banner_img {
-     padding-right: 100px 60px 100px 60px;  
+     padding-right: 100px;  
 }
 
 .banner_img figure {
-     margin: 30; 
+     margin: 0; 
 }
 
 
