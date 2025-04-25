@@ -333,7 +333,7 @@ button {
 .header {
 width: 100%;
 background:#fff0;
-height: 170px;
+height: 107px;
 padding: 27px 30px;
 position: absolute;
 z-index: 999;
@@ -482,11 +482,6 @@ ul.email li i {
      right: inherit;
      left: 10%;
 }
-#carouselExampleIndicators .carousel-control-next {
-     top: inherit;
-     left: 30%;
-}
-
 
 #carouselExampleIndicators .carousel-control-next:focus,
 #carouselExampleIndicators .carousel-control-next:hover,
@@ -497,11 +492,11 @@ ul.email li i {
 }
 
 .banner_img {
-     padding-right: 100px;  
+     padding-right: 50px;
 }
 
 .banner_img figure {
-     margin: 0; 
+     margin: 0;
 }
 
 
