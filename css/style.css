@@ -333,7 +333,7 @@ button {
 .header {
 width: 100%;
 background:#fff0;
-height: 250px;
+height: 170px;
 padding: 27px 30px;
 position: absolute;
 z-index: 999;
@@ -498,7 +498,7 @@ ul.email li i {
 }
 
 .banner_img figure {
-     margin: 15; 
+     margin: 30; 
 }
 
 
