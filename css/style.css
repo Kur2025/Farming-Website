@@ -341,7 +341,7 @@ z-index: 999;
 
 .navigation.navbar {
      float: right;
-     padding: 0;
+     padding: 15px 15px;
 }
 
 .navigation.navbar-dark .navbar-nav .nav-link {
