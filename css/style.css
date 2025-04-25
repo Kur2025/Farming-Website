@@ -493,10 +493,12 @@ ul.email li i {
 
 .banner_img {
      padding-right: 100px;
+     Padding-top: 60px;
+     Padding-bottom: 15px;
 }
 
 .banner_img figure {
-     margin: 15;
+     margin: 15; 
 }
 
 
