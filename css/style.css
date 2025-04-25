@@ -482,6 +482,11 @@ ul.email li i {
      right: inherit;
      left: 10%;
 }
+#carouselExampleIndicators .carousel-control-next {
+     top: inherit;
+     left: 30%;
+}
+
 
 #carouselExampleIndicators .carousel-control-next:focus,
 #carouselExampleIndicators .carousel-control-next:hover,
